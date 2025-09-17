@@ -1,4 +1,2 @@
-This is half way dead btw but if u find bugs make a PR pls.
-
-thanks
-NO ui btw
+This is the linux port off FPK 
+will get the same upates as FPK
